@@ -1,2 +1,2 @@
-# FkasAPI
-python API config
+# FlaskAPI
+Flask API config
